@@ -1,0 +1,108 @@
+body {
+  background-color: yellow;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.thumb a:hover, a:active {
+    -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);;
+
+}
+
+.char1 {
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+
+}
+.char2 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+
+.char3 {
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+.char4 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+.char5 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+.char6{
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+.char7 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+.char8{
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+
+.char9 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+
+
+.char10{
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+
+.char11 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+
+
+.char12{
+  color : red;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+
+
+.char13 {
+  color : blue;
+  font-size: 6em;
+  font-family: sans-serif;
+}
+
+.gallery img {
+border:0px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 200px;
+}
+
+.thumb {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+text-align: center;
+
+}
